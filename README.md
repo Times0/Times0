@@ -5,15 +5,7 @@
 
 - 🔭 I’m currently working on **Many projects at the same time :0**
 
-- 🌱 I’m currently learning **web :)**
-
-- 👯 I’m looking to collaborate on [PygameUIKit](https://Times0/PygameUIKit)
-
-- 👨‍💻 All of my projects are available at [https://www.dorian-chevalerias.com/](https://www.dorian-chevalerias.com/)
-
 - 📫 How to reach me **times.coding@gmail.com**
-
-- 📄 Know about my experiences [https://www.dorian-chevalerias.com/](https://www.dorian-chevalerias.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
