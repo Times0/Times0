@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=times0" alt="times0" /></a> </p>
 
-- 🔭 I’m currently working on **Many projects at the same time :0**
+- 🔭 I’m currently working on **too many projects at the same time :0**
 
 - 📫 How to reach me **times.coding@gmail.com**
 
